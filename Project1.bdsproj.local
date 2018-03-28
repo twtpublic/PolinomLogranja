@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.02.06 12:47:49.571.pas,D:\Turbo Delphi\Unit1.pas=E:\Ванюлин Кт\Laboratorka1\Unit1.pas</Transaction>
+    <Transaction>2018.02.06 12:47:49.571.dfm,D:\Turbo Delphi\Unit1.dfm=E:\Ванюлин Кт\Laboratorka1\Unit1.dfm</Transaction>
+    <Transaction>2018.02.06 12:47:51.178.bdsproj,D:\Turbo Delphi\Project1.bdsproj=E:\Ванюлин Кт\Laboratorka1\Project1.bdsproj</Transaction>
+    <Transaction>2018.02.14 17:43:40.380.bdsproj,D:\Новая папка\Laboratorka1.1\Project1.bdsproj=D:\Новая папка\Laboratorka1.1\Project1.bdsproj</Transaction>
+    <Transaction>2018.03.14 17:33:20.543.bdsproj,D:\Новая папка\Laboratorka1.1.1\Project1.bdsproj=D:\Новая папка\Laboratorka1.1.1.1\Project1.bdsproj</Transaction>
+    <Transaction>2018.03.27 12:22:01.905.bdsproj,D:\Новая папка\Laboratorka1.1.1.1\Project1.bdsproj=D:\Новая папка\Laboratorka1.1.1.2\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
